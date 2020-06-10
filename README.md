@@ -1,7 +1,7 @@
 # da-be
 
-##Run Locally 
+## Run Locally 
 
-## mvn clean install
+`mvn clean install`
 
-## mvn spring-boot:run
+`mvn spring-boot:run`
